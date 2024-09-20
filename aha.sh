@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # URL dasar
-base_url="https://karir.upg.ac.id/file_ktp/"
+base_url="https://sss.com/"
 # Rentang file
-for i in {1823..2000}
+for i in {1..5}
 do
     # Membuat URL lengkap
     file_url="${base_url}${i}.pdf"
